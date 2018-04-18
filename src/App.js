@@ -13,7 +13,7 @@ class App extends Component {
         </header>
         <div className='PageBody'>
         <JsonTree/>
-        <div>test</div>
+        <div>test github</div>
         </div>
       </div>
     );
