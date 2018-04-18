@@ -1,0 +1,35 @@
+.Search, .Add{    
+    
+    margin-left: 20px;    
+    height:25px;
+    width: 200px;
+    border-radius: 5px;
+    box-shadow:  2px 2px 5px #788191;
+}
+
+.WIPNO{
+    width: 100px;
+}
+
+label{
+    color:black;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+#wipno{
+    margin-left: 0px;   
+}
+
+input{
+    margin-left:20px;
+    border-radius: 3px;
+}
+
+.condition{
+    float: right;
+    color: red;
+    height: 20px;
+    font-size: 20px;
+    padding-right: 30px;
+}

@@ -1,0 +1,16 @@
+.jsonTree{
+    text-align: left;
+    padding-top: 20px;
+    background-color: lightgray;
+}
+.SearchHead{
+    margin-top: 20px;
+    text-align: left;
+}
+.subnode{
+    display: none;
+}
+.parentNode{
+    list-style-type: none;
+    font-weight: bold;
+}
